@@ -1,2 +1,3 @@
 # codeforces-solutions
-So far, I have completed these many numbers of codeforces problems. I'll make a readme file to let you know what sort of code is redundant.
+I have commented out all of the codes which are redundant or the ones which are only trying out certain cases.
+
